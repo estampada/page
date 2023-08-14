@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://fincaraiz.businessasesores.com.co/sitemap.xml
+Sitemap: https://estampada.businessasesores.com.co/sitemap.xml
